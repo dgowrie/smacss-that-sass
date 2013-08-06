@@ -1,5 +1,10 @@
-# SMACSS that Sass (MF+RWD FTW)
+# SMACSS that Sass
+## A Mobile-First RWD + SMACSS + Sass Boilerplate, FTW!
 
+NUTSHELL:
+Get started faster with this mobile-first responsive boilerplate of HTML and SCSS files.
+
+DETAILS: 
 "SMACSS that Sass"" is an unprofessional name for a professional front-end boilerplate of *HTML and SCSS files* intended to help me (and you, if you wish to use it) get started faster when building *mobile-first responsive* web sites and apps.
 
 As the project title suggests, this Sass-based boilerplate follows an approach to site development known as [SMACSS](http://smacss.com/), or Scalable and Modular Architecture for CSS. Essentially, it is a process of developing with consistent naming conventions and reusable patterns when using CSS.
@@ -27,3 +32,5 @@ I am putting this up on GitHub mostly for my own use, though I welcome anybody t
 * IE-specific classes and Sass mixins for precise cross-browser control.
 * Placeholder CSS Media Queries
 * more... a work in progress
+
+Now - SMACSS that Sass!
